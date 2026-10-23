@@ -4,6 +4,7 @@
 
 AI creative pipeline for e-commerce brands, in Python. A **research agent** studies the product, its reviews and competitor ads with tools; a **copywriter agent** writes static ads and a video script; a **reviewer agent checks the other agents' work** against the evidence; then a **static ad engine** renders the approved ads and a **video editor** cuts a vertical ad from voiceover and b-roll with ffmpeg. Approved ads go to Meta as paused drafts, files to Drive, rows to Notion, and every run is monitored with alerts to Slack.
 
+**Live page with the output:** https://jc-ecom-ai-studio.vercel.app  
 **One real run, committed:** [`output/sample_run/REPORT.md`](output/sample_run/REPORT.md) · 4 of 4 assets approved · 4 Claude calls · $0.25 · 126 s.
 
 <p>
