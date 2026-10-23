@@ -1,13 +1,15 @@
-# internal working notes (local only)
-# local scratch
 # secrets
-*.env
-*.pyc
 .env
-.pytest_cache/
+*.env
+
+# local scratch and build output
 .tmp/
-.vercel/
 __pycache__/
-directives/
+*.pyc
+.pytest_cache/
 output/**/work/
 site/
+.vercel/
+
+# internal working notes (local only)
+directives/
