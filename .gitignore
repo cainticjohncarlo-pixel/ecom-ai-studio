@@ -1,0 +1,11 @@
+# secrets
+.env
+*.env
+# local scratch
+.tmp/
+__pycache__/
+*.pyc
+.pytest_cache/
+output/**/work/
+# internal working notes (local only)
+directives/

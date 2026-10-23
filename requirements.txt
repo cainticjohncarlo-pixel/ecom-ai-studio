@@ -1,0 +1,7 @@
+anthropic>=0.102
+pydantic>=2.7
+pillow>=10.1
+numpy>=1.26
+soundfile>=0.12
+requests>=2.31
+pytest>=8
